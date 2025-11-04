@@ -8,10 +8,11 @@ Neuroscience • Signal Processing • Biomedical Engineering • Data Visualiza
 ---
 
 # Overview
-This project simulates extracellular neural recordings and detects spike events using adaptive thresholding based on robust statistics (Median Absolute Deviation).  
+This project simulates extracellular neural recordings and detects spike events using adaptive thresholding based on robust statistics (Median Absolute Deviation).
+
 The script automatically filters the signal, detects spikes, enforces a biological refractory period, and evaluates performance against ground truth spike times.
 
-Designed for biomedical signal processing applications — such as brain–computer interfaces (BCIs), neural prosthetics, and electrophysiology research.
+Designed for biomedical signal processing applications such as brain computer interfaces (BCIs), neural prosthetics, and electrophysiology research.
 
 ---
 
